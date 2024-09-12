@@ -1,3 +1,10 @@
+#   * *   * *   
+# *     *     * 
+# *  N A M E  * 
+#   *   ❤   *   
+#     *   *     
+#       *           
+
 name = input("Three or four char name: ")
 
 for i in range(6):
